@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'Login','Register',
     'rest_framework',
     'rest_framework.authtoken',
-    'corsheaders',
+    'corsheaders', 'Product',
 ]
 
 REST_FRAMEWORK = {
