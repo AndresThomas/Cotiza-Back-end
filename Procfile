@@ -1,0 +1,1 @@
+web: gunicorn cotiza.wsgi:application --pythonpath app --log-file -
